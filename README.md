@@ -77,4 +77,3 @@ This project was funded by the European Regional Development Fund (EFRE) and the
 
 <img src="docs/EFRE Logo_rechts_oweb_en_rgb.jpg" alt="Logo of European Regional Development Fund (EFRE)" width="200" />
 
-
