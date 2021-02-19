@@ -15,9 +15,10 @@ existing models and thus optimize them for individual purposes. The lists availa
 for making a well reasoned decision.
 
 ## Table of contents
-1. [Pre-Trained models](models_pretraining.md)
-2. [Fine-Tuned models](models_finetuning.md)
-3. [Datasets for custom training](models_datasets.md)
+1. [Readme](README.md)
+2. [Pre-Trained models](models_pretraining.md)
+3. [Fine-Tuned models](models_finetuning.md)
+4. [Datasets for custom training](models_datasets.md)
 
 
 ## When were the lists last updated?
