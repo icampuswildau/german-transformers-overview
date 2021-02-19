@@ -39,11 +39,8 @@ The given table presents Transformer language models that have been fine-tuned f
 | [T-Systems-onsite/german-roberta-sentence-transformer-v2](https://huggingface.co/T-Systems-onsite/german-roberta-sentence-transformer-v2)       |    RoBERTa   |     Sentence Encoder     | - outdated; author refers to T-Systems-onsite/cross-en-de-roberta-sentence-transformer <br>                                                                                                                                                                                                                   |
 | [vera-pro/bert-mention-de](https://huggingface.co/vera-pro/bert-mention-de)                                                                     |     BERT     |   Token Classification   | - no description given <br>                                                                                                                                                                                                                                                                                   |
 | [xlm-roberta-large-finetuned-conll03-german](https://huggingface.co/xlm-roberta-large-finetuned-conll03-german)                                 |    RoBERTa   |   Token Classification   | - no description given <br> fine tuning task(s): CoNLL-2003 German* <br>                                                                                                                                                                                                                                      |
-
-<hr style="border:2px solid gray"> </hr>
-
-## Navigation:
-
-1. [Pre-Trained models](models_pretraining.md)
-2. [Fine-Tuned models](models_finetuning.md)
-3. [Datasets for custom training](models_datasets.md)
+## Navigation menu:
+1. [Readme](README.md)
+2. [Pre-Trained models](models_pretraining.md)
+3. [Fine-Tuned models](models_finetuning.md)
+4. [Datasets for custom training](models_datasets.md)
