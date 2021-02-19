@@ -1,8 +1,7 @@
 # Corpora and Datasets for pre-training
 The following table presents the datasets used by one or multiple pre-trained German models. 
 
-Note: It is not guaranteed that the corpora are used exactly as seen here.
-Often the data is filtered, preprocessed, or even sampled multiple times.
+Note: It is not guaranteed that the corpora are used exactly as seen here. Often the data is filtered, preprocessed, or even sampled multiple times.
 
 |                                      Corpus                                     |               approx. size               |                                                 characteristics                                                |
 |:-------------------------------------------------------------------------------:|:----------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
@@ -87,3 +86,4 @@ texts. So far, it has not been used as a fine-tuning task by any other model.
 2. [Pre-Trained models](models_pretraining.md)
 3. [Fine-Tuned models](models_finetuning.md)
 4. [Datasets for custom training](models_datasets.md)
+
