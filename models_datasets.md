@@ -82,10 +82,8 @@ themselves and have not yet been scientifically verified or reused in other mode
 is taken from [Wortschatz Uni Leipzig](https://wortschatz.uni-leipzig.de/de/download/german) and contains news
 texts. So far, it has not been used as a fine-tuning task by any other model.
 
-<hr style="border:2px solid gray"> </hr>
-
-## Navigation:
-0. [Readme](README.md)
-1. [Pre-Trained models](models_pretraining.md)
-2. [Fine-Tuned models](models_finetuning.md)
-3. [Datasets for custom training](models_datasets.md)
+## Navigation menu:
+1. [Readme](README.md)
+2. [Pre-Trained models](models_pretraining.md)
+3. [Fine-Tuned models](models_finetuning.md)
+4. [Datasets for custom training](models_datasets.md)
