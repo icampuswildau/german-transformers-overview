@@ -61,10 +61,8 @@ They can still be applied as Pre-Training models.
 After the continuation of pre-training, these kind of models are subsequently fine-tuned.
 A click on the respective model shows the fine-tuning performance (in case it is specified by the model's author).
 
-<hr style="border:2px solid gray"> </hr>
-
-## Navigation:
-
-1. [Pre-Trained models](models_pretraining.md)
-2. [Fine-Tuned models](models_finetuning.md)
-3. [Datasets for custom training](models_datasets.md)
+## Navigation menu:
+1. [Readme](README.md)
+2. [Pre-Trained models](models_pretraining.md)
+3. [Fine-Tuned models](models_finetuning.md)
+4. [Datasets for custom training](models_datasets.md)
