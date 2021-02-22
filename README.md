@@ -1,6 +1,6 @@
 # Transformer based language models for the German language
 
-This document is intended to serve as a reference for possible data sources for the training 
+This document is intended to serve as a reference for possible data sources and parametrization for the training 
 of [Transformer language models](https://arxiv.org/abs/1706.03762). The focus is set on models which have been 
 trained specifically for the German language. Other languages, but also the combination of several languages, 
 (_"multilingual"_) are not considered.
