@@ -68,9 +68,9 @@ Primarily the description, which is supplied in form of a `README` file. In addi
 ## Acknowledgment
 This project is a collaboration between [Technical University of Applied Sciences Wildau (TH Wildau)](https://en.th-wildau.de/) and [sense.ai.tion GmbH](https://senseaition.com/).
 You can contact us via:
-* [Philipp Müller (M.Eng.)](mailto:philipp.mueller@th-wildau.de) Author
+* [Philipp Müller (M.Eng.)](mailto:philipp.mueller@th-wildau.de); Author
 * [Prof. Dr. Janett Mohnke](mailto:janett.mohnke@th-wildau.de); TH Wildau
-* [Dr. Matthias Boldt, Jörg Oehmichen](mailto:<info@SenseAItion.com); sense.AI.tion GmbH 
+* [Dr. Matthias Boldt, Jörg Oehmichen](mailto:info@SenseAItion.com); sense.AI.tion GmbH 
 
 
 This project was funded by the European Regional Development Fund (EFRE) and the State of Brandenburg. Project/Vorhaben: "ProFIT: Natürlichsprachliche Dialogassistenten in der Pflege".
